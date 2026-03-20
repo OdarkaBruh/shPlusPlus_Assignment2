@@ -1,4 +1,4 @@
-# shPlusPlus_Assignment2
+# Sh++ Assignment2
 
 This code is for the Java Course from Ш++.
 
