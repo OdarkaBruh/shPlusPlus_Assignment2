@@ -11,24 +11,24 @@ This code is for the Java Course from Ш++.
 ## Assignment2Part1 - Quadratic equation
 Task: Write a console program that takes three double numbers (a, b, c) as input and outputs the roots of the quadratic equation </br>
 $a*(x^2) + b*x + c = 0$ 
-<img src="img/Assignment2Part1.png" max-height=400px border-radius=25px>
+<img src="img/Assignment2Part1.png"  border-radius=25px>
 
 ## Assignment2Part2 - Optical illusion  
 Task: Copy the optical illusion featuring a white rectangle on a white background, with black circles behind it at each of its corners. </br>   
-<img src="img/Assignment2Part2.png" max-height=400px border-radius=25px>
+<img src="img/Assignment2Part2.png"  border-radius=25px>
 
 ## Assignment2Part3 - Paws
 Task: Implement the "drawPawprint" method.  </br>
 (I know that it looks squished, the original was like this)  </br>
-<img src="img/Assignment2Part3.png" max-height=400px border-radius=25px>
+<img src="img/Assignment2Part3.png"  border-radius=25px>
 
 ## Assignment2Part4 - Flag
 Task: Draw a flag made of three stripes.  </br>
-<img src="img/Assignment2Part4.png" max-height=400px border-radius=25px>
+<img src="img/Assignment2Part4.png"  border-radius=25px>
 
 ## Assignment2Part5 - Optical illusion pt2 
 Task: Squares arranged horizontally and vertically with spacing between them.  </br>
-<img src="img/Assignment2Part5.png" max-height=400px border-radius=25px>
+<img src="img/Assignment2Part5.png"  border-radius=25px>
 
 ## Assignment2Part6 - Caterpillar  
 Task: Draw a caterpillar using circles.  </br>
