@@ -6,33 +6,33 @@ This code is for the Java Course from Ш++.
 >- I'm not sure if I have the right to share the original task description, so here is a brief summary of the tasks.
 >- All the tasks were based on WindowProgram.jar.
 
-<img src="img/Assignment2Part6_3.PNG" height=200px border-radius=25px>
+<img src="img/Assignment2Part6_3.png" height=200px border-radius=25px>
 
 ## Assignment2Part1 - Quadratic equation
 Task: Write a console program that takes three double numbers (a, b, c) as input and outputs the roots of the quadratic equation </br>
 $a*(x^2) + b*x + c = 0$ 
-<img src="img/Assignment2Part1.PNG" max-height=400px border-radius=25px>
+<img src="img/Assignment2Part1.png" max-height=400px border-radius=25px>
 
 ## Assignment2Part2 - Optical illusion  
 Task: Copy the optical illusion featuring a white rectangle on a white background, with black circles behind it at each of its corners. </br>   
-<img src="img/Assignment2Part2.PNG" max-height=400px border-radius=25px>
+<img src="img/Assignment2Part2.png" max-height=400px border-radius=25px>
 
 ## Assignment2Part3 - Paws
 Task: Implement the "drawPawprint" method.  </br>
 (I know that it looks squished, the original was like this)  </br>
-<img src="img/Assignment2Part3.PNG" max-height=400px border-radius=25px>
+<img src="img/Assignment2Part3.png" max-height=400px border-radius=25px>
 
 ## Assignment2Part4 - Flag
 Task: Draw a flag made of three stripes.  </br>
-<img src="img/Assignment2Part4.PNG" max-height=400px border-radius=25px>
+<img src="img/Assignment2Part4.png" max-height=400px border-radius=25px>
 
 ## Assignment2Part5 - Optical illusion pt2 
 Task: Squares arranged horizontally and vertically with spacing between them.  </br>
-<img src="img/Assignment2Part5.PNG" max-height=400px border-radius=25px>
+<img src="img/Assignment2Part5.png" max-height=400px border-radius=25px>
 
 ## Assignment2Part6 - Caterpillar  
 Task: Draw a caterpillar using circles.  </br>
-<img src="img/Assignment2Part6_1.PNG" height=200px border-radius=25px>
+<img src="img/Assignment2Part6_1.png" height=200px border-radius=25px>
 
 <details>
 The y-coordinate of each circle is determined using the sine function.  </br>
@@ -54,4 +54,4 @@ For example, by multiplying it by 40, it now ranges from -40 to +40 from the sta
 I hope that makes it clearer. I tried to explain it as best I could, but I’ve never been a fan of geometry :'
 </details>
 I got a little carried away and also created a dynamic color transition. The program changes the color of each subsequent circle by increasing or decreasing the RGB values. </br>
-<img src="img/Assignment2Part6_2.PNG" height=200px border-radius=25px>
+<img src="img/Assignment2Part6_2.png" height=200px border-radius=25px>
