@@ -6,7 +6,7 @@ This code is for the Java Course from Ш++.
 >- I'm not sure if I have the right to share the original task description, so here is a brief summary of the tasks.
 >- All the tasks were based on WindowProgram.jar.
 
-<img src="img/Assignment2Part6_3.png" height=200px border-radius=25px>
+<img src="img/Assignment2Part6_3.png" height=400px border-radius=25px>
 
 ## Assignment2Part1 - Quadratic equation
 Task: Write a console program that takes three double numbers (a, b, c) as input and outputs the roots of the quadratic equation </br>
